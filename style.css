@@ -11,6 +11,7 @@ body {
 }
 
 header {
+    position: relative;
     padding: 2rem;
     background-color: #331F19;
     text-align: center;
@@ -21,6 +22,13 @@ main {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+}
+
+.bambu {
+    position: absolute;
+    left: 1.25rem;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 section {

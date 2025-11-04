@@ -16,7 +16,7 @@ Criar uma ferramenta divertida e educativa para quem está começando na área d
 
 1. Clone o repositório:
 
-   git clone https://github.com/g-almeid-a/Quiz-Dev
+   git clone https://github.com/g-almeid-a/Quiz-Dev.git
 
 2. Abra o arquivo - index.html no navegador
 
